@@ -1,0 +1,16 @@
+C:\Users\intab\source\repos\Gridnine.FlightCodingTest\Gridnine.FlightCodingTest\bin\Debug\net5.0\Gridnine.FlightCodingTest.exe
+C:\Users\intab\source\repos\Gridnine.FlightCodingTest\Gridnine.FlightCodingTest\bin\Debug\net5.0\Gridnine.FlightCodingTest.deps.json
+C:\Users\intab\source\repos\Gridnine.FlightCodingTest\Gridnine.FlightCodingTest\bin\Debug\net5.0\Gridnine.FlightCodingTest.runtimeconfig.json
+C:\Users\intab\source\repos\Gridnine.FlightCodingTest\Gridnine.FlightCodingTest\bin\Debug\net5.0\Gridnine.FlightCodingTest.runtimeconfig.dev.json
+C:\Users\intab\source\repos\Gridnine.FlightCodingTest\Gridnine.FlightCodingTest\bin\Debug\net5.0\Gridnine.FlightCodingTest.dll
+C:\Users\intab\source\repos\Gridnine.FlightCodingTest\Gridnine.FlightCodingTest\bin\Debug\net5.0\ref\Gridnine.FlightCodingTest.dll
+C:\Users\intab\source\repos\Gridnine.FlightCodingTest\Gridnine.FlightCodingTest\bin\Debug\net5.0\Gridnine.FlightCodingTest.pdb
+C:\Users\intab\source\repos\Gridnine.FlightCodingTest\Gridnine.FlightCodingTest\obj\Debug\net5.0\Gridnine.FlightCodingTest.csprojAssemblyReference.cache
+C:\Users\intab\source\repos\Gridnine.FlightCodingTest\Gridnine.FlightCodingTest\obj\Debug\net5.0\Gridnine.FlightCodingTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\intab\source\repos\Gridnine.FlightCodingTest\Gridnine.FlightCodingTest\obj\Debug\net5.0\Gridnine.FlightCodingTest.AssemblyInfoInputs.cache
+C:\Users\intab\source\repos\Gridnine.FlightCodingTest\Gridnine.FlightCodingTest\obj\Debug\net5.0\Gridnine.FlightCodingTest.AssemblyInfo.cs
+C:\Users\intab\source\repos\Gridnine.FlightCodingTest\Gridnine.FlightCodingTest\obj\Debug\net5.0\Gridnine.FlightCodingTest.csproj.CoreCompileInputs.cache
+C:\Users\intab\source\repos\Gridnine.FlightCodingTest\Gridnine.FlightCodingTest\obj\Debug\net5.0\Gridnine.FlightCodingTest.dll
+C:\Users\intab\source\repos\Gridnine.FlightCodingTest\Gridnine.FlightCodingTest\obj\Debug\net5.0\ref\Gridnine.FlightCodingTest.dll
+C:\Users\intab\source\repos\Gridnine.FlightCodingTest\Gridnine.FlightCodingTest\obj\Debug\net5.0\Gridnine.FlightCodingTest.pdb
+C:\Users\intab\source\repos\Gridnine.FlightCodingTest\Gridnine.FlightCodingTest\obj\Debug\net5.0\Gridnine.FlightCodingTest.genruntimeconfig.cache
